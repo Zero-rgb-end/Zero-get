@@ -27,4 +27,4 @@ const burgerMaker = () => {
 };
 burgerMaker();
 
-console.log("SUCCESS")
+console.log("SUCCESS");
